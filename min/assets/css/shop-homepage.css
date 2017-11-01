@@ -1,0 +1,194 @@
+/*!
+ * Start Bootstrap - Shop Homepage HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */!
+ 
+html { 
+background: url('http://cdn.paper4pc.com/images/game-controller-wallpaper-1.jpg') no-repeat center center fixed; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
+body {
+   /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+/* background: url('https://images5.alphacoders.com/386/386871.jpg') no-repeat center center fixed;  */
+	background: url('http://i.imgur.com/oLkNmIE.png') no-repeat right bottom fixed;
+	
+
+/* -webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover; */
+}
+
+.jumbotron {
+background-image:black;
+background-size: cover;
+height: 100%;}
+
+ /*Jumbotron Style 1 */
+.jumbotron{
+    background: white; 
+    /*
+	-webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+	*/
+}
+
+
+.slide-image {
+    width: 100%;
+}
+
+.carousel-holder {
+    margin-bottom: 30px;
+}
+
+.carousel-control,
+.item {
+    border-radius: 4px;
+}
+
+.caption {
+    height: 130px;
+    overflow: hidden;
+}
+
+.caption h4 {
+    white-space: nowrap;
+}
+
+.thumbnail img {
+    width: 100%;
+}
+
+.ratings {
+    padding-right: 10px;
+    padding-left: 10px;
+    color: #d17581;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+    color: #333;
+}
+
+a {
+	color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+/* mouse over link */
+a:hover {
+    color: red;
+}
+
+/* selected link */
+a:active {
+    color: red;
+}
+
+footer {
+	margin:auto auto;
+    bottom:0;
+	bottom:0;
+	left:0;
+	right:0;
+}
+
+#menu-atas{
+	margin:auto;
+	position:absolute;
+	padding-top:0px;
+	top: 0;
+	left: 0;
+	right: 0;
+	background-image:url('');
+	background-repeat:repeat-x;
+	height:0px;
+	width:100%;
+	color:#000;
+}
+#menu-bawah{
+	bottom:0;
+	left:0;
+	right:0;
+	height:100px;
+	width:100%;
+	color:#000000;
+	text-align:center;
+}
+
+#head{
+width:750px;
+height:387px;
+}
+
+#atas{
+width:900px;
+margin:0 auto;
+height : 70px;
+}
+
+.spoiler
+	{
+	border:1px solid #ddd;
+	padding:3px;
+	}
+.spoiler .inner
+	{
+	border:1px solid #eee;
+	padding:3px;margin:3px;
+	}
+
+#nav {
+	text-align: center;
+}
+
+#nav ul{
+	display:inline-block;
+	list-style-type: none;
+	cursor:pointer;
+	padding-left:0px;
+	margin: 0px;
+	
+}
+
+#nav li{
+	font-family:Century Gothic;
+	display: inline-block;
+	background-color:#000000;
+	border:0px solid #000;
+	margin-top:0px;
+	margin-left:0px;
+	float:left;
+	list-style-type:none;
+	padding: 10px 3px 10px 3px;
+	background: white;
+}
+
+#nav li a{
+	font-family:Century Gothic;
+	text-decoration:none;
+	color:#000000;
+	font-weight:bold;
+}
+#nav li:hover{
+	background-color:#FFFFFF;
+	text-decoration:none;
+	color:#FFFFFF;
+	background: gray;
+
+}

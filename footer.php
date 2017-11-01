@@ -1,0 +1,1 @@
+<footer><center> Website Made By : <a href="https://www.facebook.com/In.SpeC.TourZ">Aland Samuel Tiwa</a> | &copy; <a href="index.php?target=welcome"> Goldie Game Store</a></center></footer>

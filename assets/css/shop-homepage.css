@@ -1,0 +1,132 @@
+/*!
+ * Start Bootstrap - Shop Homepage HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */!
+ 
+html { 
+background: url('http://cdn.paper4pc.com/images/game-controller-wallpaper-1.jpg') no-repeat center center fixed ;
+width:100%; 
+height:100%;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+font-family: tahoma;
+}
+
+body {
+   /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+/* background: url('https://images5.alphacoders.com/386/386871.jpg') no-repeat center center fixed;  */
+	background: url('img/background.png') no-repeat right bottom fixed;
+	
+
+/* -webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover; */
+}
+
+.jumbotron {
+background-image:black;
+background-size: cover;
+height: 100%;}
+
+ /*Jumbotron Style 1 */
+.jumbotron{
+    background: transparent; 
+    /*
+	-webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+	*/
+}
+
+a {
+	color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+/* mouse over link */
+a:hover {
+    color: red;
+}
+
+/* selected link */
+a:active {
+    color: red;
+}
+
+footer {
+	margin:auto auto;
+    bottom:0;
+	bottom:0;
+	left:0;
+	right:0;
+}
+
+#menu-atas{
+	margin:auto;
+	position:absolute;
+	padding-top:0px;
+	top: 0;
+	left: 0;
+	right: 0;
+	background-image:url('');
+	background-repeat:repeat-x;
+	height:0px;
+	width:100%;
+	color:#000;
+}
+
+#head{
+width:750px;
+height:387px;
+}
+
+#atas{
+width:900px;
+margin:0 auto;
+height : 70px;
+}
+
+#nav {
+	text-align: center;
+}
+
+#nav ul{
+	display:inline-block;
+	list-style-type: none;
+	cursor:pointer;
+	padding-left:0px;
+	margin: 0px;
+	
+}
+#nav li{
+	font-family:Century Gothic;
+	display: inline-block;
+	background-color:#000000;
+	border:0px solid #000;
+	margin-top:0px;
+	margin-left:0px;
+	float:left;
+	list-style-type:none;
+	padding: 12px 41px 12px 42px;
+	background: white;  
+}
+#nav li a{
+	font-family:Century Gothic;
+	text-decoration:none;
+	color:#000000;
+	font-weight:bold;
+}
+#nav li:hover{
+	background-color:#FFFFFF;
+	text-decoration:none;
+	color:#FFFFFF;
+	background: gray;
+}
